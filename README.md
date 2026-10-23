@@ -1,1 +1,1 @@
-# PhotoShow---Studio
+# PhotoShow-Studio
